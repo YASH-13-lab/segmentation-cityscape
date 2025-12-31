@@ -1,0 +1,5 @@
+INSERT HERE THE DATASET DOWNLOADED
+
+/data/cityscapes/gtFine
+/data/cityscapes/leftImg8bit
+
